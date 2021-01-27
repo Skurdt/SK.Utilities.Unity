@@ -4,20 +4,17 @@
   "displayName": "SK.Utilities.Unity",
   "description": "Various Unity extensions and utilities",
   "unity": "2020.2",
-  "keywords": [
-    "cs",
-    "csharp",
-    "library",
-    "tools",
-    "extensions",
-    "utilities",
-    "utils",
-    "unity"
-  ],
+  "dependencies": {},
+  "keywords": [],
   "author": {
     "name": "Skurdt",
     "email": "skurdt@gmail.com",
     "url": "https://github.com/Skurdt"
   },
-  "type": "library"
+  "type": "library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Skurdt/SK.Utilities.Unity.git",
+    "directory": ""
+  }
 }
